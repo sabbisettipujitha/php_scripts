@@ -132,6 +132,7 @@ clock.prototype = {
 <html>    
     <body> 
         <div>
+            <div>Welcome To JAPS INFOTECH</div>
             <div class="clock">
                <div class="label">
                  Tokyo
